@@ -12,8 +12,7 @@ A **digital clock application** built with Python and PyQt5. It displays the cur
 - **Customizable Style**: Styled with a black background and bright green text, giving it a classic digital appearance.
 
 ## Screenshot
-![Digital Clock Screenshot](path/to/screenshot.png)  
-*(Add a screenshot path if you'd like to show what the clock looks like)*
+![Digital Clock Screenshot]("C:\Users\nikhi\OneDrive\Pictures\Screenshots\Screenshot (45).png")  
 
 ## Requirements
 
