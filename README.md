@@ -22,5 +22,7 @@ A **digital clock application** built with Python and PyQt5. It displays the cur
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/AyushCodeBase/Digital-Clock.git
-   cd digital-clock
    
+2. Install PyQt5 :   
+    ```bash
+    pip install PyQt5
